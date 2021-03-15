@@ -1,0 +1,1 @@
+Validating the bowling score between 0 to 300.
